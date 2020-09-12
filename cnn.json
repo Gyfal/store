@@ -1,4 +1,5 @@
 {
   "versions": "4",
-  "update": "https://github.com/Gyfal/store/raw/master/CNN_Helper.luac"
+  "update": "https://github.com/Gyfal/store/raw/master/CNN_Helper.luac",
+  "message": "Обновление"
 }
